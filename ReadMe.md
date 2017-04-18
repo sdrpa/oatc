@@ -1,6 +1,6 @@
-## Welcome to **OATC** (Open ATC)
+## Welcome to Open ATC
 
-The goal of Open ATC (OATC) project is to build a set of open source ATC modules to be shared across other applications.
+The goal of project is to build a set of open source ATC modules to be shared across other applications.
 The modules are written in [Swift](https://swift.org), cross-platform compatible (Linux, OS X and iOS) providing a level of OS independence to enhance portability.
 
 Official project website is [oatc.io](http://oatc.io)
@@ -15,7 +15,7 @@ Official project website is [oatc.io](http://oatc.io)
 
 - [**ATCSIM**](https://github.com/sdrpa/atcsim) - Simulation library. In case of simulated enviroment the ATCSIM module takes role of FDPS and Tracker simulating real traffic flow.
 
-- [**FDPS**](https://github.com/sdrpa/fdps) - Flight Data Processing System. (FDPServer and FDPClient ...)
+- [**FDPS**](https://github.com/sdrpa/fdps) - Flight Data Processing System. (FDPServer, FDPClient ...)
 
 - [**Measure**](https://github.com/sdrpa/measure) - Unit-safe numeric types. Provide compiler help to make sure that only numerics with the same unit-of-measure can be combined.
 
@@ -29,14 +29,14 @@ Official project website is [oatc.io](http://oatc.io)
 
 - [**Mathematics**](https://github.com/sdrpa/mathematics), [**BlueSocket**](https://github.com/IBM-Swift/BlueSocket) (network communication) 
 
-
-
-Data folder contains sample data (Aircraft, Airspace, Scenario) so you quickly check what format is currently suported for the particular module. 
-There are sample applications using core modules to help you get started:
+### Sample Applications
+Sample applications using core modules to help you get started:
 
 - [**Map Editor (OATCME)**](https://github.com/sdrpa/oatcme) - Create and edit map layers which can be read by [AircraftKit](https://github.com/sdrpa/aircraftkit)
 - [**Display**](https://github.com/sdrpa/display) - 2D display prototype using different modules ([AirspaceKit](https://github.com/sdrpa/airspacekit), [ATCKit](https://github.com/sdrpa/atckit), [Measure](https://github.com/sdrpa/measure), [Projection](https://github.com/sdrpa/projection)...).
 - [**Simulation**](https://github.com/sdrpa/simulation) - Interface to [ATCSIM](https://github.com/sdrpa/atcsim) module. It takes role of FDPS and Tracker simulating real traffic flow.
+
+[**Data repository**](https://github.com/sdrpa/oatcdata) contains sample data (Aircraft, Airspace, Scenario) so you quickly check what format is currently suported for the particular module.
 
 ## Source and Contributions
 

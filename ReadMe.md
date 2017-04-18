@@ -33,8 +33,8 @@ Official project website is [oatc.io](http://oatc.io)
 Sample applications using core modules to help you get started:
 
 - [**Map Editor (OATCME)**](https://github.com/sdrpa/oatcme) - Create and edit map layers which can be read by [AircraftKit](https://github.com/sdrpa/aircraftkit)
-- [**Display**](https://github.com/sdrpa/display) - 2D display prototype using different modules ([AirspaceKit](https://github.com/sdrpa/airspacekit), [ATCKit](https://github.com/sdrpa/atckit), [Measure](https://github.com/sdrpa/measure), [Projection](https://github.com/sdrpa/projection)...).
-- [**Simulation**](https://github.com/sdrpa/simulation) - Interface to [ATCSIM](https://github.com/sdrpa/atcsim) module. It takes role of FDPS and Tracker simulating real traffic flow.
+- [**Display**](https://github.com/sdrpa/display-macos) - 2D display prototype using different modules ([AirspaceKit](https://github.com/sdrpa/airspacekit), [ATCKit](https://github.com/sdrpa/atckit), [Measure](https://github.com/sdrpa/measure), [Projection](https://github.com/sdrpa/projection)...).
+- [**Simulation**](https://github.com/sdrpa/simulation-macos) - Interface to [ATCSIM](https://github.com/sdrpa/atcsim) module. It takes role of FDPS and Tracker simulating real traffic flow.
 
 [**Data repository**](https://github.com/sdrpa/oatcdata) contains sample data (Aircraft, Airspace, Scenario) so you quickly check what format is currently suported for the particular module.
 

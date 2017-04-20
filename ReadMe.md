@@ -13,7 +13,7 @@ Official project website is [oatc.io](http://oatc.io)
 
 - [**ATCKit**](https://github.com/sdrpa/atckit) - Provides base ATC structures which are required for almost all other OATC modules.
 
-- [**ATCSIM**](https://github.com/sdrpa/atcsim) - Simulation library. In case of simulated enviroment the ATCSIM module takes role of FDPS and Tracker simulating real traffic flow.
+- [**ATCSIM**](https://github.com/sdrpa/atcsim) - Simulation library. Simulates air traffic flow from a scenario.
 
 - [**FDPS**](https://github.com/sdrpa/fdps) - Flight Data Processing System. (FDPServer, FDPClient ...)
 

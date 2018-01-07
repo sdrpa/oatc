@@ -3,8 +3,6 @@
 The goal of project is to build a set of open source ATC modules to be shared across other applications.
 The modules are written in [Swift](https://swift.org), cross-platform compatible (Linux, OS X and iOS) providing a level of OS independence to enhance portability.
 
-Official project website is [oatc.io](http://oatc.io)
-
 ## Core modules
 
 - [**AircraftKit**](https://github.com/sdrpa/aircraftkit) - Aircraft performance library. Loads and parses aircraft data from XML.
